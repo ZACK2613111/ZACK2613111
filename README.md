@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZACK2613111
-- 👀 I’m interested in piano🎹
-- 🌱 I’m currently learning CS
+- 👀 I’m interested in Chess, piano🎹
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Riot Games
 - 📫 How to reach me ...
 
