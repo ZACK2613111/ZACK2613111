@@ -15,7 +15,7 @@
 Full-stack Developer with **2 years experience** building modern web applications  
 Currently @ **Yalidine** (Algeria's #1 delivery service - 50K+ parcels/day)  
 Master's Student @ **Polytech Lyon**  
-**Looking for:** Frontend Internship in Lyon (March 2025)
+**Looking for:** An internship that suits me (March 2025) or any remote opportunities
 
 ---
 
@@ -81,6 +81,6 @@ Master's Student @ **Polytech Lyon**
 
 ### 📫 Contact
 
-📍 Lyon, France  
+📍 Lyon, France | Open to remote  
 💼 [LinkedIn](https://linkedin.com/in/zakaria-belhadj-28442b20a)  
 📧 zakariabelhadj.027@gmail.com
