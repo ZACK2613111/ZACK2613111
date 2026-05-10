@@ -12,7 +12,7 @@ Full-stack Developer | Frontend-focused
 
 ## 👨‍💻 About
 
-Developer @ [Yalidine](https://yalidine.com)  
+Developer @ [Ourquilane](https://ourquilane.com)  
 Master's Student @ [Polytech Lyon](https://polytech.univ-lyon1.fr/)  
 Graduate from [ESI](https://esi.dz) Algeria
 
